@@ -10,6 +10,8 @@ public class TesteFuncionario {
 		
 		System.out.println(diego.getNome());
 		System.out.println(diego.getBonifacacao());
+		
+		//diego.salario = 300.0;
 
 	}
 
